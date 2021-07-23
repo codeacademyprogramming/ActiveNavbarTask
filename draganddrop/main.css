@@ -1,0 +1,27 @@
+body {
+    display: flex;
+}
+
+#drag1 {
+    height: 400px;
+    width: 450px;
+    background-color: red;
+    position: absolute;
+}
+/* 
+#div1 {
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    right: 0;
+    top: 0;
+} */
+
+.col {
+    height: 100vh;
+    width: 450px;
+    box-shadow: 0 0 10px #e3e3e3;
+    margin-right: 10px;
+    position: relative;
+}
